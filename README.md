@@ -34,4 +34,4 @@ public class Ejemplo1
 ---
 
 # Autor
-Marcos
+Marcos Álvarez Yáñez
