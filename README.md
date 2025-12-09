@@ -26,7 +26,9 @@ public class Ejemplo1
     }
 }
     }
-}```
+}
+
+```
 
 ![Mi religión](myreligion.jpg)
 ---
